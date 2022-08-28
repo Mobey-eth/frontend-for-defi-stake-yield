@@ -1,0 +1,20 @@
+{
+  "contracts": {
+    "DappToken": "0cfc4cd579d330209e2b8c9e8376319e61551083",
+    "MockDAI": "4797903e5e9c6d7946bf38e25340547c27e4f806",
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "MockWETH": "f9f5371e5615c1ba898e66d58af0a6b9c1240e27",
+    "Openzeppelin/openzeppelin-contracts@4.2.0/ERC20": "d0e8b1989cf0fad3654a6e1dcc883e7fc1f82aa3",
+    "TokenFarm": "e66a0f69229fd4c97e62f0378ec4b2fd471aa024"
+  },
+  "tests": {
+    "tests/test_token_farm.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "ss.",
+      "sha1": "684e1405777740109f532c8e2640922f8eacd847",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
